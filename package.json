@@ -1,9 +1,28 @@
 {
   "dependencies": {
+    "express": "^4.18.1",
     "express-generator": "^4.16.1",
     "lite-server": "^2.6.1",
     "nodemon": "^2.0.20",
     "typescript": "^4.8.3",
     "yarn": "^1.22.19"
-  }
+  },
+  "name": "comp229_lab1",
+  "description": "Web Application Development (Sec 017) - Lab 1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince0807/COMP229_Lab1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prince0807/COMP229_Lab1/issues"
+  },
+  "homepage": "https://github.com/Prince0807/COMP229_Lab1#readme"
 }
